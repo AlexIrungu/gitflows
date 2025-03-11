@@ -1,3 +1,6 @@
+
+
+
 # Git Workflow Guide
 
 ## Overview
@@ -94,3 +97,4 @@ If you encounter merge conflicts:
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
+
